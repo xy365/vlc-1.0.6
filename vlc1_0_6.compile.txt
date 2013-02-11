@@ -1,0 +1,14 @@
+vlc 1.0.6
+
+If you want to run that, install WindowsSDK Sever2008 and DXSDK_Mar09.exe.
+WindowsSDK Sever2008 Library directory insert to VC2005 tools.
+
+VC2005 tools >> options >> Projects and Solutions >> VC++Directories >> Show Directories for: >> Include files and Library files
+
+sample for Include files
+C:\Program Files\Microsoft SDKs\Windows\v6.1\Include
+C:\Program Files\Microsoft SDKs\Windows\v6.1\Include\gl
+
+sample for Library files
+C:\Program Files\Microsoft SDKs\Windows\v6.1\Lib
+
